@@ -76,9 +76,5 @@ We implemented the U-Net model on the CamVid dataset, facing challenges such as 
 - Implement additional adversarial robustness techniques.
 - Extend the model for multi-camera input in autonomous vehicles.
 
-## Contributors
-- **Your Name** - Role/Contribution
-- **Other Contributors** - Role/Contribution
-
 ## Acknowledgments
 Special thanks to our mentors and research community for their valuable insights and guidance in developing this project.
